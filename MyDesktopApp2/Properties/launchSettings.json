@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyDesktopApp2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MyDesktopApp2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
